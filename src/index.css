@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button, [type='button'] {
+  background-color: blue;
+  border-radius: 0.5rem;
+  color: white;
+  padding: 5px 5px 5px 5px; 
+}
